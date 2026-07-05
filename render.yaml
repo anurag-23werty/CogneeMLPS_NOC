@@ -6,7 +6,7 @@ services:
     startCommand: uvicorn app.api:app --host 0.0.0.0 --port $PORT
     envVars:
       - key: PYTHON_VERSION
-        value: 3.12.3
+        value: 3.13.5
 
       # ---------- LLM ----------
       - key: LLM_PROVIDER
