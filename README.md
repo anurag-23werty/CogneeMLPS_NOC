@@ -11,7 +11,7 @@
 [![Python](https://img.shields.io/badge/python-3.12-blue)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy)
+[![Deployed](https://cogneemlps-noc-1.onrender.com)](https://render.com/deploy)
 
 </div>
 
